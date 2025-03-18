@@ -753,7 +753,7 @@ elif selected_section == "Monte Carlo Simulations":
     Monte_Carlo_section()
 elif selected_section == "Drift":
     drift_section()
-elif selected_section == "Paths":
+elif selected_section == "Simulated Paths":
     num_paths_section()
 elif selected_section == "Iterations":
     num_iterations_section()
