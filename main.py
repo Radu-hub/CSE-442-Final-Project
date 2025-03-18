@@ -33,7 +33,7 @@ selected_section = st.sidebar.radio("Go to section:", [
     "Volatility",
     "Drift",
     "Monte Carlo Simulations",
-    "Paths",
+    "Simulated Paths",
     "Iterations",
     "Burn In",
     "Conclusion"
